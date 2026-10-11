@@ -1,0 +1,82 @@
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+
+}
+.btn{
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    margin-right: -100px;
+}
+.btn:hover{
+    background-color: #4CAF50;
+}
+
+.word{
+    font-style: bold;
+}
+p{
+    font-size: 40px;
+    margin-left: 170px;
+}
+.para1{
+    font-size: 20px;
+}
+.btn2{
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    margin-left: 170px;
+    margin-top: 50px;
+    color: white;
+    background-color: black;
+}
+.line{
+    display: flex;
+    justify-content: space-evenly;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.btn3{
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    margin-left: 170px;
+    margin-top: 50px;
+    color: white;
+    background-color: black;
+    font-size: 20px;
+}
+.para2{
+    font-size: 20px;
+    margin-left: 400px;
+    margin-top:-48px
+}
+.box1{
+    width: 450px;
+    height: 200px;
+    background-color: #f2f2f2;
+    margin-left: 170px;
+    margin-top: 100px;
+    border-radius: 10px;
+}
+.box2{
+    position: relative;
+    width: 450px;
+    background-color: green;
+    border-radius: 10px;
+    margin-left: 800px;
+    margin-top: -200px;
+}
+.paragraph p{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: green;
+    position: absolute;
+    font-size: 20px;
+    margin-left: 40px;
+    margin-top: 40px;
+
+}
